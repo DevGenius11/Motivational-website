@@ -1,0 +1,43 @@
+body{
+
+    background-color: #FDAF7B;
+
+}
+
+div{
+
+    height: 768px;
+    width:  1210px;
+    background-color: #BE7B72;
+    border: 20px solid #824D74;
+    border-top-style: dotted;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.color{
+    color: #401F71;
+}
+#Font{
+
+    font-family: "Croissant One";
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 60px;
+}
+h3{
+    font-size: 30px;
+    margin-right: 600px;
+}
+p{
+    font-size: 20px;
+    margin-right: 150px;
+    margin-top: -25px;
+}
+footer{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
